@@ -72,6 +72,8 @@ git push origin feature/add-your-name
 - Fill in a clear title and description explaining what you added.
 - Click **"Create pull request"**! 🚀
 
+> 💡 **Tip**: For detailed pull request conventions and code of conduct, check out our [Contribution Guidelines](CONTRIBUTING.md).
+
 ---
 
 ## 👥 Contributors
@@ -92,6 +94,7 @@ To keep this space friendly and productive for everyone:
 - 🧹 Keep your pull requests focused on a single change or feature.
 - 🚫 Avoid deleting or overwriting other contributors' entries.
 - 📚 If you see a beginner struggling, feel free to help them in comments!
+- 📖 Please review our [Contribution Guide (CONTRIBUTING.md)](CONTRIBUTING.md) before submitting.
 
 ---
 
