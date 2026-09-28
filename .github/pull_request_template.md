@@ -3,6 +3,7 @@ Please include a brief summary of the changes and the related issue/feature.
 
 - What changes are included in this PR?
 - Why were these changes made?
+- Related issue (e.g., `Fixes #123` or `Closes #123`):
 
 ---
 
@@ -20,3 +21,4 @@ Please check the option that applies:
 - [ ] I have performed a self-review of my changes.
 - [ ] My changes generate no new warnings or errors.
 - [ ] I have read and followed the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
+- [ ] Linked related issue or discussion (if applicable).
