@@ -60,6 +60,12 @@ git add .
 git commit -m "docs: add git cheatsheet reference"
 ```
 
+#### Co-authoring Commits (Pair Programming)
+If you collaborated with a peer or pair-programmed on a contribution, you can credit co-authors by adding the `Co-authored-by` trailer to the end of your commit message:
+```bash
+git commit -m "Commit title" -m "Co-authored-by: Name <email@example.com>"
+```
+
 ### 6. Push to Your Fork
 ```bash
 git push origin feat/your-feature-name
